@@ -1,0 +1,9 @@
+var json = [{
+    "Name" : "Irshath",
+    "Email" : "mrirshathbscit@gmail.com",
+    "Mob No." : "9123456789",
+    "Degree" : "B.sc(IT)",
+    "Career Objective"  :"Looking for Full Stack Developer role in an organization which gives me an opportunity 
+                        to exhibit my technical skills and giving scope for career and financial growth.",
+    "Skills" : "React JS, Node JS, JS, MongoDB ."
+}]
